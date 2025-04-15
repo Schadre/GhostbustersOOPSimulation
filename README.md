@@ -40,15 +40,15 @@ GhostbustersOOPSimulation/
 
 # ▶️ How to Run the Game
 
-- `1. Make sure you have Python 3 installed`
-- `2. Download or clone this project folder`
-- `3. Open a terminal (or command prompt), navigate to the project directory:`
+- `Make sure you have Python 3 installed`
+- `Download or clone this project folder`
+- `Open a terminal (or command prompt), navigate to the project directory:`
 
 ```
 cd GhostbustersOOPSimulation
 ```
 
-- `4. Run the game`
+- `Run the game`
 
 ```
 python game.py
@@ -57,7 +57,7 @@ python game.py
 # 🎮 How to Play
 Once you start the game, you'll be greeted with a Main Menu. You can choose from the following:
 
-- `1. Containment Unit`
+- `Containment Unit`
 Manage ghosts you've captured:
 
 Add a ghost
@@ -66,21 +66,21 @@ Display captured ghosts
 
 See if any ghosts have escaped
 
-- `2. Equipment`
+- `Equipment`
 Manage your ghost-fighting tools:
 
 View current equipment stats
 
 Upgrade tools like Proton Packs, Ghost Traps, or Ecto Goggles
 
-- `3. Interact with Ghosts`
+- `Interact with Ghosts`
 Go ghost hunting:
 
 Encounter random ghosts
 
 Choose to fight, flee, or scan the area
 
-- `4. Ghostbusters Team`
+- `Ghostbusters Team`
 Manage your team:
 
 Join the team
@@ -91,8 +91,9 @@ Find a ghostbuster by name
 
 Train to increase a ghostbuster's skill level
 
-- `5. Exit`
+- `Exit`
 Leave the game
+
 
 # ⚙️ Game Features
 Random Ghost Encounters: Fight iconic ghosts like Slimer, Gozer, and Stay Puft!
