@@ -21,6 +21,10 @@
                   --XXXXXXXXXXXXXXXXXX-
 
 ------------------------------------------------
+Thank you for visiting https://asciiart.website/
+This ASCII pic can be found at
+https://asciiart.website/index.php?art=movies%2Fghostbusters
+
 
 Welcome to the Ghostbusters Game Simulation - a text-based Python adventure where you battle and
 capture ghost, upgrade equipment, and build your own elite team of ghostnusters!
